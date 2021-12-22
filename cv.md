@@ -9,18 +9,16 @@
 -  **Email:** netrixt@gmail.com
 - **GitHub:** __[Vladislav Shuvalov]("https://github.com/NETRIXT?tab=repositories")__
 - **LinkedIn:** __[Vladislav Shuvalov]("https://www.linkedin.com/in/vladislav-%C5%A1uvalov-ab8ba9204/)__
-- **Location:** Tartu, Estonia
+- **Location:** Tallinn, Estonia
 
 ---
 
 ### About me
 
 I am a second year student at Polytechnic School of Tallinn who
-is seeking a software developer internship. My school performance confirms my eligibility for internship as currently my projects are defended and I become second year student. 
+is working as webmaster at ADM Interactive Tallinn (IT company).
 I am a responsible person and motivated to study, expand my programming skills. 
-I would be very grateful and take maximum from studies if you can accept me to your internship. 
-I am ready to proceed in full stack development. 
-Internship could be 998 hours long and start in September.
+
 
 ---
 
@@ -29,8 +27,6 @@ Internship could be 998 hours long and start in September.
 - HTML
 - CSS
 - Python
-- C#
-- PHP
 - JavaScript
 - React
 - Git
@@ -55,6 +51,7 @@ Internship could be 998 hours long and start in September.
 - React JS "The way of samurai", ***IT-Incubator** (June 2021)*
 - Cyber Security BootCamp Tartu, ***CTF Tech** (August 2021)*
 - JavaScript, ***SoloLearn** (August 2021)*
+- Cyber Security Finalist (CTF) ***CTF Tech** (October 2021)*
 
 ---
 
