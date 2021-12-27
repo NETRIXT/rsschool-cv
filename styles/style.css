@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:regular,bold&subset=Latin');
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Ubuntu', cursive;
+}
+body
+{
+    background: lightblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.container
+{
+    position: relative;
+    width: 100%;
+    max-width: 1000px;
+    min-height: 1000px;
+    background: white;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    box-shadow: 0 35px 55px rgba(0,0,0,0.1);
+}
+
+.container .leftSide {
+    position: relative;
+    background: cornflowerblue;
+    padding: 40px;
+}
+
+.container .rightSide {
+    position: relative;
+    background: #fff;
+    padding: 40px;
+}
+
+section  {
+    padding-bottom: 20px;
+    line-height: 25px;
+}
+
+h3 {
+    padding-bottom: 5px;
+}
+
+h4 {
+    padding-bottom: 5px;
+}
+
+
+
+li {
+    list-style-type:none;
+}
+
+
+
+img {
+    width: 200px;
+    height: auto;
+    border-radius: 10%;
+}
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: cornflowerblue;
+    color: white;
+}
+
+.Contact {
+    padding-bottom: 20px;
+    line-height: 25px;
+}
+
+article {
+    padding-bottom: 20px;
+    line-height: 25px;
+}
+
