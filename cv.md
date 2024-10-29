@@ -1,5 +1,5 @@
 # Vladislav Shuvalov
-#### Junior Front-end Developer
+#### Front-end Developer
 
 ---
 
@@ -8,16 +8,14 @@
 - **Phone:** +37253014157
 -  **Email:** netrixt@gmail.com
 - **GitHub:** __[Vladislav Shuvalov]("https://github.com/NETRIXT?tab=repositories")__
-- **LinkedIn:** __[Vladislav Shuvalov]("https://www.linkedin.com/in/vladislav-%C5%A1uvalov-ab8ba9204/)__
+- **LinkedIn:** __[Vladislav Shuvalov]("https://www.linkedin.com/in/vlad-shuvalov/")__
 - **Location:** Tallinn, Estonia
 
 ---
 
 ### About me
 
-I am a second year student at Polytechnic School of Tallinn who
-is working as webmaster at ADM Interactive Tallinn (IT company).
-I am a responsible person and motivated to study, expand my programming skills. 
+Currently working as a Front-End Developer at ADM Interactive, I specialize in responsive design with strong expertise in HTML5, and CSS3, especially when it comes to building dynamic web applications using modern frameworks like React.
 
 
 ---
@@ -52,6 +50,7 @@ I am a responsible person and motivated to study, expand my programming skills.
 - Cyber Security BootCamp Tartu, ***CTF Tech** (August 2021)*
 - JavaScript, ***SoloLearn** (August 2021)*
 - Cyber Security Finalist (CTF) ***CTF Tech** (October 2021)*
+- Cyber Security Finalist (CTF) ***CTF Tech** (October 2021)*
 
 ---
 
@@ -71,10 +70,9 @@ alert(y);
 
 ### Languages
 
+- English **B2**
+- Estonian **C1**
 - Russian **C2**
-- Estonian **B2**
-- English **B1**
-
 
 
 
