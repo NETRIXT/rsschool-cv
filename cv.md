@@ -50,7 +50,7 @@ Currently working as a Front-End Developer at ADM Interactive, I specialize in r
 - Cyber Security BootCamp Tartu, ***CTF Tech** (August 2021)*
 - JavaScript, ***SoloLearn** (August 2021)*
 - Cyber Security Finalist (CTF) ***CTF Tech** (October 2021)*
-- Front-end developer professional ***Coursera (September 2023)*
+- Front-end developer professional ***Coursera** (September 2023)*
 
 ---
 
