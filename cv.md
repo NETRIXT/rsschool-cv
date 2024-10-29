@@ -7,8 +7,8 @@
 
 - **Phone:** +37253014157
 -  **Email:** netrixt@gmail.com
-- **GitHub:** __[Vladislav Shuvalov]("https://github.com/NETRIXT?tab=repositories")__
-- **LinkedIn:** __[Vladislav Shuvalov]("https://www.linkedin.com/in/vlad-shuvalov/")__
+- **GitHub:** [Vladislav Shuvalov](https://github.com/NETRIXT?tab=repositories)
+- **LinkedIn:** [Vladislav Shuvalov](https://www.linkedin.com/in/vlad-shuvalov/)
 - **Location:** Tallinn, Estonia
 
 ---
